@@ -11,7 +11,6 @@ Sistema em Python para gerenciamento de eventos, com cadastro de contratantes vi
 ├── agenda.py         # Lógica principal: cadastro, listagem e validações
 ├── evento.py         # Classe Evento
 ├── contratante.py    # Classe Contratante
-└── bancodados.py     # Reservado para integração futura com banco de dados
 ```
 
 ---
