@@ -105,9 +105,7 @@ class Agenda:
         whats = self._pedir_whatsapp()
 
         contratante = Contratante(enterprise_name, tipo_documento, cnpj_cpf, whats)
-        evento = Evento(event_name, event_day, event_month, event_year,
-                        event_date, event_time, event_location, number_people,
-                        contratante)
+        evento = Evento(event_name, event_day, event_month, event_year, event_date, event_time, event_location, number_people, contratante)
         self.eventos.append(evento)
 
         print("\n✅ Evento cadastrado com sucesso!")
