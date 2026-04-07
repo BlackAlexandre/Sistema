@@ -91,7 +91,7 @@ class Agenda:
 
         event_time     = input("Qual o horário do evento? ")
         event_location = input("Qual o local do evento? ")
-
+        
         try:
             number_people = int(input("Qual a quantidade de pessoas no evento? "))
         except ValueError:
@@ -109,10 +109,15 @@ class Agenda:
         self.eventos.append(evento)
 
         print("\n✅ Evento cadastrado com sucesso!")
+        
+        if print == "\n✅ Evento cadastrado com sucesso!":
+            contagem = contagem +1
+
+
 
     # ── Listagem ──────────────────────────────────────────────────────────────
 
-    def listar_eventos(self):
+    def listar_eventos(self): 
         if len(self.eventos) == 0:
             print("\nNenhum evento cadastrado.")
         else:

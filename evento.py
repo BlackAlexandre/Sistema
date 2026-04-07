@@ -1,5 +1,6 @@
 from contratante import Contratante
 
+contagem = 0 
 
 class Evento:
     def __init__(self, event_name, event_day, event_month, event_year, event_date, event_time, event_location, number_people, contratante):
@@ -23,3 +24,4 @@ class Evento:
         print("")
         self.contratante.exibir_dados()
         print("──────────────────────────────")
+        print("Total eventos:{}".format(contagem))
