@@ -300,13 +300,15 @@ class Agenda:
                 print("\n✅ Nome atualizado!")
 
             elif opcao == "2":
+                self.eventos.remove(evento)
                 event_day, event_month, event_year = self._pedir_data()
                 evento.event_day   = event_day
                 evento.event_month = event_month
                 evento.event_year  = event_year
                 evento.event_date  = "{}-{:02d}-{:02d}".format(event_year, event_month, event_day)
+                self.eventos.append(evento)
                 print("\n✅ Data atualizada!")
-
+                
             elif opcao == "3":
                 evento.event_time = self._pedir_horario()
                 print("\n✅ Horário atualizado!")

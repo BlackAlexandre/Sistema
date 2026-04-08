@@ -27,12 +27,12 @@ python main.py
 
 ## 🖥️ Menu Principal
 
-```
-══════════════════════════════
-   SISTEMA DE CONTROLE DE EVENTO
-══════════════════════════════
+````
 1. Cadastrar evento
 2. Listar eventos
+3. Quantidade total de eventos no mês
+4. Remover evento
+5. Editar evento
 0. Sair
 ```
 
