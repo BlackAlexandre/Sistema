@@ -12,6 +12,7 @@ def menu():
         print("3. Quantidade total de eventos no mês")
         print("4. Remover evento")
         print("5. Editar evento")
+        print("6. Gerar relatório (txt)")
         print("0. Sair")
         print("──────────────────────────────")
 
@@ -27,6 +28,8 @@ def menu():
             agenda.remover_evento()
         elif opcao == "5":
             agenda.editar_evento()
+        elif opcao == "6":
+            agenda.gerar_relatorio_txt()
         elif opcao == "0":
             print("\nSaindo do sistema. Até logo!")
             break

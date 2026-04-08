@@ -223,6 +223,30 @@ class Agenda:
                 
         print(f"\n📊 Total de eventos em {mes_busca:02d}/{ano_busca}: {contagem}")
 
+    def gerar_relatorio_txt(self):
+            """Cria um arquivo .txt com todos os eventos cadastrados."""
+            if not self.eventos:
+                print("\n⚠️ Não há eventos para gerar o relatório.")
+                return
+
+            # 'with open' abre o arquivo e o fecha automaticamente ao final
+            # "w" significa 'write' (escrever/sobrescrever)
+            # encoding="utf-8" serve para aceitar acentos e emojis
+            with open("relatorio_eventos.txt", "w", encoding="utf-8") as arquivo:
+                arquivo.write("📋 RELATÓRIO GERAL DE EVENTOS - 2026\n")
+                arquivo.write("=" * 40 + "\n\n")
+
+                for e in self.eventos:
+                    arquivo.write(f"🎉 EVENTO: {e.event_name}\n")
+                    arquivo.write(f"📅 DATA: {e.event_date} às {e.event_time}\n")
+                    arquivo.write(f"📍 LOCAL: {e.event_location}\n")
+                    arquivo.write(f"👥 PÚBLICO: {e.number_people} pessoas\n")
+                    arquivo.write(f"🏢 CONTRATANTE: {e.contratante.enterprise_name}\n")
+                    arquivo.write(f"📱 WHATSAPP: {e.contratante.whats}\n")
+                    arquivo.write("-" * 30 + "\n")
+
+            print("\n✅ Relatório 'relatorio_eventos.txt' gerado com sucesso na pasta do projeto!")
+
 
 
     # ── Listagem ──────────────────────────────────────────────────────────────
