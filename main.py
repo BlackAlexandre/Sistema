@@ -10,7 +10,7 @@ def menu():
         print("══════════════════════════════")
         print("1. Cadastrar evento")
         print("2. Listar eventos")
-        print("3. Listar e")
+        print("3. Quantidade total de eventos no mês")
         print("0. Sair")
         print("──────────────────────────────")
 
@@ -20,9 +20,12 @@ def menu():
             agenda.cadastrar_evento()
         elif opcao == "2":
             agenda.listar_eventos()
+        elif opcao == "3": 
+            agenda.contar_eventos_no_mes()
         elif opcao == "0":
             print("\nSaindo do sistema. Até logo!")
             break
+        
         else:
             print("\nOpção inválida. Tente novamente.")
 
