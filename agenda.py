@@ -1,7 +1,6 @@
 from contratante import Contratante
 from evento import Evento
 
-
 class Agenda:
     def __init__(self):
         self.eventos = []
@@ -110,8 +109,26 @@ class Agenda:
 
         print("\n✅ Evento cadastrado com sucesso!")
         
-        if print == "\n✅ Evento cadastrado com sucesso!":
-            contagem = contagem +1
+        def contar_eventos_mes(self):
+            if not self.eventos:
+                print("\nNenhum evento cadastrado!")
+                return
+            
+            try:
+                mes_busca = int(input("Digite o mês para consulta (1-12): ").strip())
+                ano_busca = int(input("Digite o ano (Ex: 2024): ").strip())
+                
+            except ValueError:
+                print ("\n⚠️ Digite valores numéricos válidos.")
+                return
+            
+            contagem = 0
+            
+            for evento in self.eventos:
+                if evento.event.month == mes_busca and evento.event_year == ano_busca:
+                    contagem += 1
+                    
+            print(f"\n📊 Total de eventos em {mes_busca:02d}/{ano_busca}: {contagem}")
 
 
 

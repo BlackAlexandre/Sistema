@@ -10,6 +10,7 @@ def menu():
         print("══════════════════════════════")
         print("1. Cadastrar evento")
         print("2. Listar eventos")
+        print("3. Listar e")
         print("0. Sair")
         print("──────────────────────────────")
 
