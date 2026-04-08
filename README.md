@@ -1,6 +1,6 @@
 # 📅 Sistema de Gestão de Eventos e Contratantes
 
-Aplicação em **Python** (linha de comando) para centralizar o cadastro de eventos e dos responsáveis contratantes, com validações de negócio, listagem, edição, remoção, relatório em texto e contagem de eventos por período.
+Aplicação em Python (linha de comando) para centralizar o cadastro de eventos e dos responsáveis contratantes, com validações de negócio, listagem, edição, remoção, relatório em texto e contagem de eventos por período.
 
 ---
 
@@ -12,7 +12,7 @@ As regras abaixo refletem o comportamento implementado em `agenda.py` e nos flux
 
 | Regra | Descrição |
 |--------|-----------|
-| **Conflito no mesmo dia** | Não é permitido cadastrar dois eventos na **mesma combinação dia + mês + ano**. Se já existir um evento na data informada, o sistema informa o nome do evento em conflito e solicita outra data. |
+|Conflito no mesmo dia | Não é permitido cadastrar dois eventos na **mesma combinação dia + mês + ano**. Se já existir um evento na data informada, o sistema informa o nome do evento em conflito e solicita outra data. |
 | **Limite de ano** | O ano do evento deve estar entre **2026** e **2100** (inclusive). |
 | **Componentes da data** | Dia entre **1** e **31**; mês entre **1** e **12**; apenas entrada numérica (valores inválidos são rejeitados com mensagem). |
 
