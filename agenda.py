@@ -5,10 +5,8 @@ class Agenda:
     def __init__(self):
         self.eventos = []
 
-    # ── Validações ────────────────────────────────────────────────────────────
-
     def _dia_ocupado(self, day, month, year):
-        """Retorna o evento já cadastrado nessa data, ou None."""
+
         for evento in self.eventos:
             if evento.event_day == day and evento.event_month == month and evento.event_year == year:
                 return evento
@@ -57,10 +55,8 @@ class Agenda:
 
         return event_day, event_month, event_year
 
-    
-
     def _pedir_documento(self):
-        """Pergunta CPF ou CNPJ e valida os dígitos."""
+
         while True:
             print("\nTipo de documento:")
             print("1. CPF")
@@ -92,7 +88,7 @@ class Agenda:
                 return tipo, numero
 
     def _pedir_whatsapp(self):
-        """Solicita WhatsApp e valida 11 dígitos numéricos."""
+
         while True:
             whats = input("Qual o WhatsApp de contato? (Apenas números, 11 dígitos): ").strip()
 
@@ -135,8 +131,6 @@ class Agenda:
                 continue
 
             return horario
-
-    # ── Cadastro ──────────────────────────────────────────────────────────────
 
     def cadastrar_evento(self):
         print("\n── Dados do Evento ──")
@@ -224,14 +218,11 @@ class Agenda:
         print(f"\n📊 Total de eventos em {mes_busca:02d}/{ano_busca}: {contagem}")
 
     def gerar_relatorio_txt(self):
-            """Cria um arquivo .txt com todos os eventos cadastrados."""
+        
             if not self.eventos:
                 print("\n⚠️ Não há eventos para gerar o relatório.")
                 return
 
-            # 'with open' abre o arquivo e o fecha automaticamente ao final
-            # "w" significa 'write' (escrever/sobrescrever)
-            # encoding="utf-8" serve para aceitar acentos e emojis
             with open("relatorio_eventos.txt", "w", encoding="utf-8") as arquivo:
                 arquivo.write("📋 RELATÓRIO GERAL DE EVENTOS - 2026\n")
                 arquivo.write("=" * 40 + "\n\n")
@@ -300,7 +291,6 @@ class Agenda:
             print("\n❌ Evento '{}' não encontrado.".format(nome))
             return
 
-        # loop do menu de edição — fica aqui até o usuário escolher 0
         while True:
             evento.exibir_dados()
             print("\nO que deseja editar?")
