@@ -9,4 +9,3 @@ class Contratante:
         print("🏢 Contratante: {}".format(self.enterprise_name))
         print("📄 {}: {}".format(self.tipo_documento, self.cnpj_cpf))
         print("📱 WhatsApp: {}".format(self.whats))
-
