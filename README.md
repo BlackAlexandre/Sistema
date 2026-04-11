@@ -1,6 +1,6 @@
 # 📅 Sistema de Gestão de Eventos e Contratantes
 
-> Aplicação de linha de comando desenvolvida em Python com Programação Orientada a Objetos para gerenciar eventos e seus respectivos contratantes. Permite cadastrar, listar, editar e remover eventos com validações de negócio completas — datas, horários, CPF/CNPJ e WhatsApp —, além de contagem mensal e exportação de relatório em `.txt`. Sem dependências externas, banco de dados ou instalações adicionais: basta ter Python 3.
+> Aplicação de linha de comando desenvolvida em Python com Programação Orientada a Objetos para gerenciar eventos e seus respectivos contratantes. Permite cadastrar, listar, editar e remover eventos com validações de negócio completas — datas, horários, CPF/CNPJ e WhatsApp, além de contagem mensal e exportação de relatório em `.txt`. Sem dependências externas, banco de dados ou instalações adicionais: basta ter Python 3.
 
 ---
 
