@@ -1,7 +1,11 @@
 class Contratante:
+    """
+    Representa a pessoa ou empresa responsável por contratar um evento.
+    """
+
     def __init__(self, enterprise_name, tipo_documento, cnpj_cpf, whats):
         self.enterprise_name = enterprise_name
-        self.tipo_documento = tipo_documento  # "CPF" ou "CNPJ"
+        self.tipo_documento = tipo_documento
         self.cnpj_cpf = cnpj_cpf
         self.whats = whats
 

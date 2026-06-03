@@ -1,12 +1,16 @@
 def formatar_reais(valor):
     """
-    Recebe um número e devolve o valor formatado em reais.
-    Exemplo: 8500 vira R$ 8.500,00
+    Recebe um número e devolve o valor no padrão brasileiro.
+    Exemplo: 8500 vira R$ 8.500,00.
     """
     return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 
 class Evento:
+    """
+    Representa um evento, seu contratante e os itens de custo vinculados.
+    """
+
     def __init__(
         self,
         evento_id,
@@ -32,19 +36,18 @@ class Evento:
         self.number_people = number_people
         self.contratante = contratante
 
-        # Caso nenhum custo seja informado, o evento começa com uma lista vazia.
-        self.itens_custo = itens_custo if itens_custo is not None else []
+        # Os itens são armazenados em uma lista de tuplas: (nome, valor).
+        self.itens_custo = list(itens_custo) if itens_custo is not None else []
 
     def adicionar_item_custo(self, nome, valor):
         """
         Adiciona um novo item de custo ao evento.
-        Cada custo é armazenado como uma tupla: (nome, valor).
         """
         self.itens_custo.append((nome, valor))
 
     def calcular_custo_total(self):
         """
-        Soma automaticamente todos os custos cadastrados no evento.
+        Soma automaticamente os valores de todos os itens do evento.
         """
         return sum(valor for nome, valor in self.itens_custo)
 
@@ -62,7 +65,7 @@ class Evento:
 
         print("\n💰 Itens de custo:")
 
-        if len(self.itens_custo) == 0:
+        if not self.itens_custo:
             print("- Nenhum custo cadastrado.")
         else:
             for nome, valor in self.itens_custo:

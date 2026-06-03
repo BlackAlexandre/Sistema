@@ -1,0 +1,1551 @@
+📋 RELATÓRIO GERAL DE EVENTOS
+==================================================
+
+🆔 CÓDIGO: 1
+🎉 EVENTO: Casamento 001
+📅 DATA: 2026-07-01 às 19:10
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 77 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000001
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.755,00
+- Banda: R$ 3.296,00
+- Aluguel do espaço: R$ 5.150,00
+- a: R$ 10,00
+💵 TOTAL DO EVENTO: R$ 17.211,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 2
+🎉 EVENTO: Formatura 002
+📅 DATA: 2026-07-02 às 20:20
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 94 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000002
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.872,00
+- DJ: R$ 2.544,00
+- Fotógrafo: R$ 3.286,00
+- Decoração: R$ 2.968,00
+💵 TOTAL DO EVENTO: R$ 20.670,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 3
+🎉 EVENTO: Aniversário 003
+📅 DATA: 2026-07-03 às 21:30
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 111 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000003
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.578,00
+- Iluminação: R$ 1.962,00
+- Sonorização: R$ 2.507,00
+💵 TOTAL DO EVENTO: R$ 9.047,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 4
+🎉 EVENTO: Congresso 004
+📅 DATA: 2026-07-04 às 22:40
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 128 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000004
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.792,00
+- Segurança: R$ 2.352,00
+- Limpeza: R$ 1.064,00
+- Buffet: R$ 8.512,00
+💵 TOTAL DO EVENTO: R$ 13.720,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 5
+🎉 EVENTO: Workshop 005
+📅 DATA: 2026-07-05 às 18:50
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 145 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000005
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.175,00
+- Aluguel do espaço: R$ 4.485,00
+- Brindes: R$ 1.955,00
+💵 TOTAL DO EVENTO: R$ 11.615,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 6
+🎉 EVENTO: Feira 006
+📅 DATA: 2026-07-06 às 19:00
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 162 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000006
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 10.030,00
+- Banda: R$ 3.776,00
+- Aluguel do espaço: R$ 5.900,00
+💵 TOTAL DO EVENTO: R$ 19.706,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 7
+🎉 EVENTO: Show 007
+📅 DATA: 2026-07-07 às 20:10
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 179 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000007
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.200,00
+- DJ: R$ 2.400,00
+- Fotógrafo: R$ 3.100,00
+- Decoração: R$ 2.800,00
+💵 TOTAL DO EVENTO: R$ 19.500,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 8
+🎉 EVENTO: Confraternização 008
+📅 DATA: 2026-07-08 às 21:20
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 196 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000008
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.326,00
+- Iluminação: R$ 1.854,00
+- Sonorização: R$ 2.369,00
+💵 TOTAL DO EVENTO: R$ 8.549,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 9
+🎉 EVENTO: Seminário 009
+📅 DATA: 2026-07-09 às 22:30
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 213 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000009
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.696,00
+- Segurança: R$ 2.226,00
+- Limpeza: R$ 1.007,00
+- Buffet: R$ 8.056,00
+💵 TOTAL DO EVENTO: R$ 12.985,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 10
+🎉 EVENTO: Festival 010
+📅 DATA: 2026-07-10 às 18:40
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 230 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000010
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.905,00
+- Aluguel do espaço: R$ 4.251,00
+- Brindes: R$ 1.853,00
+💵 TOTAL DO EVENTO: R$ 11.009,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 11
+🎉 EVENTO: Casamento 011
+📅 DATA: 2026-07-11 às 19:50
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 247 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000011
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.520,00
+- Banda: R$ 3.584,00
+- Aluguel do espaço: R$ 5.600,00
+💵 TOTAL DO EVENTO: R$ 18.704,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 12
+🎉 EVENTO: Formatura 012
+📅 DATA: 2026-07-12 às 20:00
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 264 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000012
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.880,00
+- DJ: R$ 2.760,00
+- Fotógrafo: R$ 3.565,00
+- Decoração: R$ 3.220,00
+💵 TOTAL DO EVENTO: R$ 22.425,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 13
+🎉 EVENTO: Aniversário 013
+📅 DATA: 2026-07-13 às 21:10
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 281 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000013
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.956,00
+- Iluminação: R$ 2.124,00
+- Sonorização: R$ 2.714,00
+💵 TOTAL DO EVENTO: R$ 9.794,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 14
+🎉 EVENTO: Congresso 014
+📅 DATA: 2026-07-14 às 22:20
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 298 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000014
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.600,00
+- Segurança: R$ 2.100,00
+- Limpeza: R$ 950,00
+- Buffet: R$ 7.600,00
+💵 TOTAL DO EVENTO: R$ 12.250,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 15
+🎉 EVENTO: Workshop 015
+📅 DATA: 2026-07-15 às 18:30
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 315 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000015
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.635,00
+- Aluguel do espaço: R$ 4.017,00
+- Brindes: R$ 1.751,00
+💵 TOTAL DO EVENTO: R$ 10.403,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 16
+🎉 EVENTO: Feira 016
+📅 DATA: 2026-07-16 às 19:40
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 332 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000016
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.010,00
+- Banda: R$ 3.392,00
+- Aluguel do espaço: R$ 5.300,00
+💵 TOTAL DO EVENTO: R$ 17.702,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 17
+🎉 EVENTO: Show 017
+📅 DATA: 2026-07-17 às 20:50
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 349 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000017
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.208,00
+- DJ: R$ 2.616,00
+- Fotógrafo: R$ 3.379,00
+- Decoração: R$ 3.052,00
+💵 TOTAL DO EVENTO: R$ 21.255,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 18
+🎉 EVENTO: Confraternização 018
+📅 DATA: 2026-07-18 às 21:00
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 366 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000018
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.704,00
+- Iluminação: R$ 2.016,00
+- Sonorização: R$ 2.576,00
+💵 TOTAL DO EVENTO: R$ 9.296,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 19
+🎉 EVENTO: Seminário 019
+📅 DATA: 2026-07-19 às 22:10
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 383 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000019
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.840,00
+- Segurança: R$ 2.415,00
+- Limpeza: R$ 1.092,50
+- Buffet: R$ 8.740,00
+💵 TOTAL DO EVENTO: R$ 14.087,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 20
+🎉 EVENTO: Festival 020
+📅 DATA: 2026-07-20 às 18:20
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 400 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000020
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.310,00
+- Aluguel do espaço: R$ 4.602,00
+- Brindes: R$ 2.006,00
+💵 TOTAL DO EVENTO: R$ 11.918,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 21
+🎉 EVENTO: Casamento 021
+📅 DATA: 2026-07-21 às 19:30
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 417 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000021
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.500,00
+- Banda: R$ 3.200,00
+- Aluguel do espaço: R$ 5.000,00
+💵 TOTAL DO EVENTO: R$ 16.700,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 22
+🎉 EVENTO: Formatura 022
+📅 DATA: 2026-07-22 às 20:40
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 434 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000022
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.536,00
+- DJ: R$ 2.472,00
+- Fotógrafo: R$ 3.193,00
+- Decoração: R$ 2.884,00
+💵 TOTAL DO EVENTO: R$ 20.085,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 23
+🎉 EVENTO: Aniversário 023
+📅 DATA: 2026-07-23 às 21:50
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 451 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000023
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.452,00
+- Iluminação: R$ 1.908,00
+- Sonorização: R$ 2.438,00
+💵 TOTAL DO EVENTO: R$ 8.798,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 24
+🎉 EVENTO: Congresso 024
+📅 DATA: 2026-07-24 às 22:00
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 468 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000024
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.744,00
+- Segurança: R$ 2.289,00
+- Limpeza: R$ 1.035,50
+- Buffet: R$ 8.284,00
+💵 TOTAL DO EVENTO: R$ 13.352,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 25
+🎉 EVENTO: Workshop 025
+📅 DATA: 2026-07-25 às 18:10
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 485 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000025
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.040,00
+- Aluguel do espaço: R$ 4.368,00
+- Brindes: R$ 1.904,00
+💵 TOTAL DO EVENTO: R$ 11.312,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 26
+🎉 EVENTO: Feira 026
+📅 DATA: 2026-07-26 às 19:20
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 62 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000026
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.775,00
+- Banda: R$ 3.680,00
+- Aluguel do espaço: R$ 5.750,00
+💵 TOTAL DO EVENTO: R$ 19.205,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 27
+🎉 EVENTO: Show 027
+📅 DATA: 2026-07-27 às 20:30
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 79 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000027
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 13.216,00
+- DJ: R$ 2.832,00
+- Fotógrafo: R$ 3.658,00
+- Decoração: R$ 3.304,00
+💵 TOTAL DO EVENTO: R$ 23.010,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 28
+🎉 EVENTO: Confraternização 028
+📅 DATA: 2026-07-28 às 21:40
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 96 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000028
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.200,00
+- Iluminação: R$ 1.800,00
+- Sonorização: R$ 2.300,00
+💵 TOTAL DO EVENTO: R$ 8.300,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 29
+🎉 EVENTO: Seminário 029
+📅 DATA: 2026-07-29 às 22:50
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 113 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000029
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.648,00
+- Segurança: R$ 2.163,00
+- Limpeza: R$ 978,50
+- Buffet: R$ 7.828,00
+💵 TOTAL DO EVENTO: R$ 12.617,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 30
+🎉 EVENTO: Festival 030
+📅 DATA: 2026-07-30 às 18:00
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 130 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000030
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.770,00
+- Aluguel do espaço: R$ 4.134,00
+- Brindes: R$ 1.802,00
+💵 TOTAL DO EVENTO: R$ 10.706,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 31
+🎉 EVENTO: Casamento 031
+📅 DATA: 2026-07-31 às 19:10
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 147 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000031
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.265,00
+- Banda: R$ 3.488,00
+- Aluguel do espaço: R$ 5.450,00
+💵 TOTAL DO EVENTO: R$ 18.203,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 32
+🎉 EVENTO: Formatura 032
+📅 DATA: 2026-08-01 às 20:20
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 164 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000032
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.544,00
+- DJ: R$ 2.688,00
+- Fotógrafo: R$ 3.472,00
+- Decoração: R$ 3.136,00
+💵 TOTAL DO EVENTO: R$ 21.840,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 33
+🎉 EVENTO: Aniversário 033
+📅 DATA: 2026-08-02 às 21:30
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 181 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000033
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.830,00
+- Iluminação: R$ 2.070,00
+- Sonorização: R$ 2.645,00
+💵 TOTAL DO EVENTO: R$ 9.545,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 34
+🎉 EVENTO: Congresso 034
+📅 DATA: 2026-08-03 às 22:40
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 198 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000034
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.888,00
+- Segurança: R$ 2.478,00
+- Limpeza: R$ 1.121,00
+- Buffet: R$ 8.968,00
+💵 TOTAL DO EVENTO: R$ 14.455,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 35
+🎉 EVENTO: Workshop 035
+📅 DATA: 2026-08-04 às 18:50
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 215 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000035
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.500,00
+- Aluguel do espaço: R$ 3.900,00
+- Brindes: R$ 1.700,00
+💵 TOTAL DO EVENTO: R$ 10.100,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 36
+🎉 EVENTO: Feira 036
+📅 DATA: 2026-08-05 às 19:00
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 232 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000036
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.755,00
+- Banda: R$ 3.296,00
+- Aluguel do espaço: R$ 5.150,00
+💵 TOTAL DO EVENTO: R$ 17.201,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 37
+🎉 EVENTO: Show 037
+📅 DATA: 2026-08-06 às 20:10
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 249 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000037
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.872,00
+- DJ: R$ 2.544,00
+- Fotógrafo: R$ 3.286,00
+- Decoração: R$ 2.968,00
+💵 TOTAL DO EVENTO: R$ 20.670,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 38
+🎉 EVENTO: Confraternização 038
+📅 DATA: 2026-08-07 às 21:20
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 266 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000038
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.578,00
+- Iluminação: R$ 1.962,00
+- Sonorização: R$ 2.507,00
+💵 TOTAL DO EVENTO: R$ 9.047,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 39
+🎉 EVENTO: Seminário 039
+📅 DATA: 2026-08-08 às 22:30
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 283 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000039
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.792,00
+- Segurança: R$ 2.352,00
+- Limpeza: R$ 1.064,00
+- Buffet: R$ 8.512,00
+💵 TOTAL DO EVENTO: R$ 13.720,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 40
+🎉 EVENTO: Festival 040
+📅 DATA: 2026-08-09 às 18:40
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 300 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000040
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.175,00
+- Aluguel do espaço: R$ 4.485,00
+- Brindes: R$ 1.955,00
+💵 TOTAL DO EVENTO: R$ 11.615,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 41
+🎉 EVENTO: Casamento 041
+📅 DATA: 2026-08-10 às 19:50
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 317 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000041
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 10.030,00
+- Banda: R$ 3.776,00
+- Aluguel do espaço: R$ 5.900,00
+💵 TOTAL DO EVENTO: R$ 19.706,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 42
+🎉 EVENTO: Formatura 042
+📅 DATA: 2026-08-11 às 20:00
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 334 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000042
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.200,00
+- DJ: R$ 2.400,00
+- Fotógrafo: R$ 3.100,00
+- Decoração: R$ 2.800,00
+💵 TOTAL DO EVENTO: R$ 19.500,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 43
+🎉 EVENTO: Aniversário 043
+📅 DATA: 2026-08-12 às 21:10
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 351 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000043
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.326,00
+- Iluminação: R$ 1.854,00
+- Sonorização: R$ 2.369,00
+💵 TOTAL DO EVENTO: R$ 8.549,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 44
+🎉 EVENTO: Congresso 044
+📅 DATA: 2026-08-13 às 22:20
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 368 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000044
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.696,00
+- Segurança: R$ 2.226,00
+- Limpeza: R$ 1.007,00
+- Buffet: R$ 8.056,00
+💵 TOTAL DO EVENTO: R$ 12.985,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 45
+🎉 EVENTO: Workshop 045
+📅 DATA: 2026-08-14 às 18:30
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 385 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000045
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.905,00
+- Aluguel do espaço: R$ 4.251,00
+- Brindes: R$ 1.853,00
+💵 TOTAL DO EVENTO: R$ 11.009,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 46
+🎉 EVENTO: Feira 046
+📅 DATA: 2026-08-15 às 19:40
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 402 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000046
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.520,00
+- Banda: R$ 3.584,00
+- Aluguel do espaço: R$ 5.600,00
+💵 TOTAL DO EVENTO: R$ 18.704,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 47
+🎉 EVENTO: Show 047
+📅 DATA: 2026-08-16 às 20:50
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 419 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000047
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.880,00
+- DJ: R$ 2.760,00
+- Fotógrafo: R$ 3.565,00
+- Decoração: R$ 3.220,00
+💵 TOTAL DO EVENTO: R$ 22.425,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 48
+🎉 EVENTO: Confraternização 048
+📅 DATA: 2026-08-17 às 21:00
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 436 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000048
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.956,00
+- Iluminação: R$ 2.124,00
+- Sonorização: R$ 2.714,00
+💵 TOTAL DO EVENTO: R$ 9.794,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 49
+🎉 EVENTO: Seminário 049
+📅 DATA: 2026-08-18 às 22:10
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 453 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000049
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.600,00
+- Segurança: R$ 2.100,00
+- Limpeza: R$ 950,00
+- Buffet: R$ 7.600,00
+💵 TOTAL DO EVENTO: R$ 12.250,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 50
+🎉 EVENTO: Festival 050
+📅 DATA: 2026-08-19 às 18:20
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 470 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000050
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.635,00
+- Aluguel do espaço: R$ 4.017,00
+- Brindes: R$ 1.751,00
+💵 TOTAL DO EVENTO: R$ 10.403,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 51
+🎉 EVENTO: Casamento 051
+📅 DATA: 2026-08-20 às 19:30
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 487 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000051
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.010,00
+- Banda: R$ 3.392,00
+- Aluguel do espaço: R$ 5.300,00
+💵 TOTAL DO EVENTO: R$ 17.702,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 52
+🎉 EVENTO: Formatura 052
+📅 DATA: 2026-08-21 às 20:40
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 64 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000052
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.208,00
+- DJ: R$ 2.616,00
+- Fotógrafo: R$ 3.379,00
+- Decoração: R$ 3.052,00
+💵 TOTAL DO EVENTO: R$ 21.255,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 53
+🎉 EVENTO: Aniversário 053
+📅 DATA: 2026-08-22 às 21:50
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 81 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000053
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.704,00
+- Iluminação: R$ 2.016,00
+- Sonorização: R$ 2.576,00
+💵 TOTAL DO EVENTO: R$ 9.296,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 54
+🎉 EVENTO: Congresso 054
+📅 DATA: 2026-08-23 às 22:00
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 98 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000054
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.840,00
+- Segurança: R$ 2.415,00
+- Limpeza: R$ 1.092,50
+- Buffet: R$ 8.740,00
+💵 TOTAL DO EVENTO: R$ 14.087,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 55
+🎉 EVENTO: Workshop 055
+📅 DATA: 2026-08-24 às 18:10
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 115 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000055
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.310,00
+- Aluguel do espaço: R$ 4.602,00
+- Brindes: R$ 2.006,00
+💵 TOTAL DO EVENTO: R$ 11.918,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 56
+🎉 EVENTO: Feira 056
+📅 DATA: 2026-08-25 às 19:20
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 132 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000056
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.500,00
+- Banda: R$ 3.200,00
+- Aluguel do espaço: R$ 5.000,00
+💵 TOTAL DO EVENTO: R$ 16.700,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 57
+🎉 EVENTO: Show 057
+📅 DATA: 2026-08-26 às 20:30
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 149 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000057
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.536,00
+- DJ: R$ 2.472,00
+- Fotógrafo: R$ 3.193,00
+- Decoração: R$ 2.884,00
+💵 TOTAL DO EVENTO: R$ 20.085,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 58
+🎉 EVENTO: Confraternização 058
+📅 DATA: 2026-08-27 às 21:40
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 166 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000058
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.452,00
+- Iluminação: R$ 1.908,00
+- Sonorização: R$ 2.438,00
+💵 TOTAL DO EVENTO: R$ 8.798,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 59
+🎉 EVENTO: Seminário 059
+📅 DATA: 2026-08-28 às 22:50
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 183 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000059
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.744,00
+- Segurança: R$ 2.289,00
+- Limpeza: R$ 1.035,50
+- Buffet: R$ 8.284,00
+💵 TOTAL DO EVENTO: R$ 13.352,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 60
+🎉 EVENTO: Festival 060
+📅 DATA: 2026-08-29 às 18:00
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 200 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000060
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.040,00
+- Aluguel do espaço: R$ 4.368,00
+- Brindes: R$ 1.904,00
+💵 TOTAL DO EVENTO: R$ 11.312,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 61
+🎉 EVENTO: Casamento 061
+📅 DATA: 2026-08-30 às 19:10
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 217 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000061
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.775,00
+- Banda: R$ 3.680,00
+- Aluguel do espaço: R$ 5.750,00
+💵 TOTAL DO EVENTO: R$ 19.205,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 62
+🎉 EVENTO: Formatura 062
+📅 DATA: 2026-08-31 às 20:20
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 234 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000062
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 13.216,00
+- DJ: R$ 2.832,00
+- Fotógrafo: R$ 3.658,00
+- Decoração: R$ 3.304,00
+💵 TOTAL DO EVENTO: R$ 23.010,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 63
+🎉 EVENTO: Aniversário 063
+📅 DATA: 2026-09-01 às 21:30
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 251 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000063
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.200,00
+- Iluminação: R$ 1.800,00
+- Sonorização: R$ 2.300,00
+💵 TOTAL DO EVENTO: R$ 8.300,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 64
+🎉 EVENTO: Congresso 064
+📅 DATA: 2026-09-02 às 22:40
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 268 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000064
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.648,00
+- Segurança: R$ 2.163,00
+- Limpeza: R$ 978,50
+- Buffet: R$ 7.828,00
+💵 TOTAL DO EVENTO: R$ 12.617,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 65
+🎉 EVENTO: Workshop 065
+📅 DATA: 2026-09-03 às 18:50
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 285 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000065
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.770,00
+- Aluguel do espaço: R$ 4.134,00
+- Brindes: R$ 1.802,00
+💵 TOTAL DO EVENTO: R$ 10.706,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 66
+🎉 EVENTO: Feira 066
+📅 DATA: 2026-09-04 às 19:00
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 302 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000066
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.265,00
+- Banda: R$ 3.488,00
+- Aluguel do espaço: R$ 5.450,00
+💵 TOTAL DO EVENTO: R$ 18.203,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 67
+🎉 EVENTO: Show 067
+📅 DATA: 2026-09-05 às 20:10
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 319 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000067
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.544,00
+- DJ: R$ 2.688,00
+- Fotógrafo: R$ 3.472,00
+- Decoração: R$ 3.136,00
+💵 TOTAL DO EVENTO: R$ 21.840,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 68
+🎉 EVENTO: Confraternização 068
+📅 DATA: 2026-09-06 às 21:20
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 336 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000068
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.830,00
+- Iluminação: R$ 2.070,00
+- Sonorização: R$ 2.645,00
+💵 TOTAL DO EVENTO: R$ 9.545,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 69
+🎉 EVENTO: Seminário 069
+📅 DATA: 2026-09-07 às 22:30
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 353 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000069
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.888,00
+- Segurança: R$ 2.478,00
+- Limpeza: R$ 1.121,00
+- Buffet: R$ 8.968,00
+💵 TOTAL DO EVENTO: R$ 14.455,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 70
+🎉 EVENTO: Festival 070
+📅 DATA: 2026-09-08 às 18:40
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 370 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000070
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.500,00
+- Aluguel do espaço: R$ 3.900,00
+- Brindes: R$ 1.700,00
+💵 TOTAL DO EVENTO: R$ 10.100,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 71
+🎉 EVENTO: Casamento 071
+📅 DATA: 2026-09-09 às 19:50
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 387 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000071
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.755,00
+- Banda: R$ 3.296,00
+- Aluguel do espaço: R$ 5.150,00
+💵 TOTAL DO EVENTO: R$ 17.201,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 72
+🎉 EVENTO: Formatura 072
+📅 DATA: 2026-09-10 às 20:00
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 404 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000072
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.872,00
+- DJ: R$ 2.544,00
+- Fotógrafo: R$ 3.286,00
+- Decoração: R$ 2.968,00
+💵 TOTAL DO EVENTO: R$ 20.670,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 73
+🎉 EVENTO: Aniversário 073
+📅 DATA: 2026-09-11 às 21:10
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 421 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000073
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.578,00
+- Iluminação: R$ 1.962,00
+- Sonorização: R$ 2.507,00
+💵 TOTAL DO EVENTO: R$ 9.047,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 74
+🎉 EVENTO: Congresso 074
+📅 DATA: 2026-09-12 às 22:20
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 438 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000074
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.792,00
+- Segurança: R$ 2.352,00
+- Limpeza: R$ 1.064,00
+- Buffet: R$ 8.512,00
+💵 TOTAL DO EVENTO: R$ 13.720,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 75
+🎉 EVENTO: Workshop 075
+📅 DATA: 2026-09-13 às 18:30
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 455 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000075
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.175,00
+- Aluguel do espaço: R$ 4.485,00
+- Brindes: R$ 1.955,00
+💵 TOTAL DO EVENTO: R$ 11.615,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 76
+🎉 EVENTO: Feira 076
+📅 DATA: 2026-09-14 às 19:40
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 472 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000076
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 10.030,00
+- Banda: R$ 3.776,00
+- Aluguel do espaço: R$ 5.900,00
+💵 TOTAL DO EVENTO: R$ 19.706,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 77
+🎉 EVENTO: Show 077
+📅 DATA: 2026-09-15 às 20:50
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 489 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000077
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.200,00
+- DJ: R$ 2.400,00
+- Fotógrafo: R$ 3.100,00
+- Decoração: R$ 2.800,00
+💵 TOTAL DO EVENTO: R$ 19.500,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 78
+🎉 EVENTO: Confraternização 078
+📅 DATA: 2026-09-16 às 21:00
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 66 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000078
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.326,00
+- Iluminação: R$ 1.854,00
+- Sonorização: R$ 2.369,00
+💵 TOTAL DO EVENTO: R$ 8.549,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 79
+🎉 EVENTO: Seminário 079
+📅 DATA: 2026-09-17 às 22:10
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 83 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000079
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.696,00
+- Segurança: R$ 2.226,00
+- Limpeza: R$ 1.007,00
+- Buffet: R$ 8.056,00
+💵 TOTAL DO EVENTO: R$ 12.985,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 80
+🎉 EVENTO: Festival 080
+📅 DATA: 2026-09-18 às 18:20
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 100 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000080
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.905,00
+- Aluguel do espaço: R$ 4.251,00
+- Brindes: R$ 1.853,00
+💵 TOTAL DO EVENTO: R$ 11.009,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 81
+🎉 EVENTO: Casamento 081
+📅 DATA: 2026-09-19 às 19:30
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 117 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000081
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.520,00
+- Banda: R$ 3.584,00
+- Aluguel do espaço: R$ 5.600,00
+💵 TOTAL DO EVENTO: R$ 18.704,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 82
+🎉 EVENTO: Formatura 082
+📅 DATA: 2026-09-20 às 20:40
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 134 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000082
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.880,00
+- DJ: R$ 2.760,00
+- Fotógrafo: R$ 3.565,00
+- Decoração: R$ 3.220,00
+💵 TOTAL DO EVENTO: R$ 22.425,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 83
+🎉 EVENTO: Aniversário 083
+📅 DATA: 2026-09-21 às 21:50
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 151 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000083
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.956,00
+- Iluminação: R$ 2.124,00
+- Sonorização: R$ 2.714,00
+💵 TOTAL DO EVENTO: R$ 9.794,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 84
+🎉 EVENTO: Congresso 084
+📅 DATA: 2026-09-22 às 22:00
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 168 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000084
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.600,00
+- Segurança: R$ 2.100,00
+- Limpeza: R$ 950,00
+- Buffet: R$ 7.600,00
+💵 TOTAL DO EVENTO: R$ 12.250,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 85
+🎉 EVENTO: Workshop 085
+📅 DATA: 2026-09-23 às 18:10
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 185 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000085
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.635,00
+- Aluguel do espaço: R$ 4.017,00
+- Brindes: R$ 1.751,00
+💵 TOTAL DO EVENTO: R$ 10.403,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 86
+🎉 EVENTO: Feira 086
+📅 DATA: 2026-09-24 às 19:20
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 202 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000086
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.010,00
+- Banda: R$ 3.392,00
+- Aluguel do espaço: R$ 5.300,00
+💵 TOTAL DO EVENTO: R$ 17.702,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 87
+🎉 EVENTO: Show 087
+📅 DATA: 2026-09-25 às 20:30
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 219 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000087
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 12.208,00
+- DJ: R$ 2.616,00
+- Fotógrafo: R$ 3.379,00
+- Decoração: R$ 3.052,00
+💵 TOTAL DO EVENTO: R$ 21.255,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 88
+🎉 EVENTO: Confraternização 088
+📅 DATA: 2026-09-26 às 21:40
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 236 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000088
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.704,00
+- Iluminação: R$ 2.016,00
+- Sonorização: R$ 2.576,00
+💵 TOTAL DO EVENTO: R$ 9.296,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 89
+🎉 EVENTO: Seminário 089
+📅 DATA: 2026-09-27 às 22:50
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 253 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000089
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.840,00
+- Segurança: R$ 2.415,00
+- Limpeza: R$ 1.092,50
+- Buffet: R$ 8.740,00
+💵 TOTAL DO EVENTO: R$ 14.087,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 90
+🎉 EVENTO: Festival 090
+📅 DATA: 2026-09-28 às 18:00
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 270 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000090
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.310,00
+- Aluguel do espaço: R$ 4.602,00
+- Brindes: R$ 2.006,00
+💵 TOTAL DO EVENTO: R$ 11.918,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 91
+🎉 EVENTO: Casamento 091
+📅 DATA: 2026-09-29 às 19:10
+📍 LOCAL: Espaço Jardim
+👥 PÚBLICO: 287 pessoas
+🏢 CONTRATANTE: Ana Souza
+📱 WHATSAPP: 41900000091
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 8.500,00
+- Banda: R$ 3.200,00
+- Aluguel do espaço: R$ 5.000,00
+💵 TOTAL DO EVENTO: R$ 16.700,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 92
+🎉 EVENTO: Formatura 092
+📅 DATA: 2026-09-30 às 20:20
+📍 LOCAL: Salão Imperial
+👥 PÚBLICO: 304 pessoas
+🏢 CONTRATANTE: Bruno Martins
+📱 WHATSAPP: 41900000092
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 11.536,00
+- DJ: R$ 2.472,00
+- Fotógrafo: R$ 3.193,00
+- Decoração: R$ 2.884,00
+💵 TOTAL DO EVENTO: R$ 20.085,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 93
+🎉 EVENTO: Aniversário 093
+📅 DATA: 2026-10-01 às 21:30
+📍 LOCAL: Centro de Eventos Curitiba
+👥 PÚBLICO: 321 pessoas
+🏢 CONTRATANTE: Carla Oliveira
+📱 WHATSAPP: 41900000093
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.452,00
+- Iluminação: R$ 1.908,00
+- Sonorização: R$ 2.438,00
+💵 TOTAL DO EVENTO: R$ 8.798,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 94
+🎉 EVENTO: Congresso 094
+📅 DATA: 2026-10-02 às 22:40
+📍 LOCAL: Teatro Municipal
+👥 PÚBLICO: 338 pessoas
+🏢 CONTRATANTE: Daniel Lima
+📱 WHATSAPP: 41900000094
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.744,00
+- Segurança: R$ 2.289,00
+- Limpeza: R$ 1.035,50
+- Buffet: R$ 8.284,00
+💵 TOTAL DO EVENTO: R$ 13.352,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 95
+🎉 EVENTO: Workshop 095
+📅 DATA: 2026-10-03 às 18:50
+📍 LOCAL: Chácara Recanto Verde
+👥 PÚBLICO: 355 pessoas
+🏢 CONTRATANTE: Empresa Horizonte Ltda.
+📱 WHATSAPP: 41900000095
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 5.040,00
+- Aluguel do espaço: R$ 4.368,00
+- Brindes: R$ 1.904,00
+💵 TOTAL DO EVENTO: R$ 11.312,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 96
+🎉 EVENTO: Feira 096
+📅 DATA: 2026-10-04 às 19:00
+📍 LOCAL: Auditório Central
+👥 PÚBLICO: 372 pessoas
+🏢 CONTRATANTE: Eventos Paraná Ltda.
+📱 WHATSAPP: 41900000096
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 9.775,00
+- Banda: R$ 3.680,00
+- Aluguel do espaço: R$ 5.750,00
+💵 TOTAL DO EVENTO: R$ 19.205,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 97
+🎉 EVENTO: Show 097
+📅 DATA: 2026-10-05 às 20:10
+📍 LOCAL: Clube Social
+👥 PÚBLICO: 389 pessoas
+🏢 CONTRATANTE: Fernanda Rocha
+📱 WHATSAPP: 41900000097
+
+💰 ITENS DE CUSTO:
+- Buffet: R$ 13.216,00
+- DJ: R$ 2.832,00
+- Fotógrafo: R$ 3.658,00
+- Decoração: R$ 3.304,00
+💵 TOTAL DO EVENTO: R$ 23.010,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 98
+🎉 EVENTO: Confraternização 098
+📅 DATA: 2026-10-06 às 21:20
+📍 LOCAL: Espaço Celebrare
+👥 PÚBLICO: 406 pessoas
+🏢 CONTRATANTE: Grupo Acadêmico Sul
+📱 WHATSAPP: 41900000098
+
+💰 ITENS DE CUSTO:
+- Aluguel do espaço: R$ 4.200,00
+- Iluminação: R$ 1.800,00
+- Sonorização: R$ 2.300,00
+💵 TOTAL DO EVENTO: R$ 8.300,00
+--------------------------------------------------
+
+🆔 CÓDIGO: 99
+🎉 EVENTO: Seminário 099
+📅 DATA: 2026-10-07 às 22:30
+📍 LOCAL: Hotel Convention
+👥 PÚBLICO: 423 pessoas
+🏢 CONTRATANTE: Helena Costa
+📱 WHATSAPP: 41900000099
+
+💰 ITENS DE CUSTO:
+- Recepção: R$ 1.648,00
+- Segurança: R$ 2.163,00
+- Limpeza: R$ 978,50
+- Buffet: R$ 7.828,00
+💵 TOTAL DO EVENTO: R$ 12.617,50
+--------------------------------------------------
+
+🆔 CÓDIGO: 100
+🎉 EVENTO: Festival 100
+📅 DATA: 2026-10-08 às 18:40
+📍 LOCAL: Arena Cultural
+👥 PÚBLICO: 440 pessoas
+🏢 CONTRATANTE: Instituto Saber
+📱 WHATSAPP: 41900000100
+
+💰 ITENS DE CUSTO:
+- Palestrante: R$ 4.770,00
+- Aluguel do espaço: R$ 4.134,00
+- Brindes: R$ 1.802,00
+💵 TOTAL DO EVENTO: R$ 10.706,00
+--------------------------------------------------
+
+📊 RESUMO FINANCEIRO
+==================================================
+Total de eventos: 100
+Total movimentado: R$ 1.456.063,50
+Média de custo: R$ 14.560,64
+Evento mais caro: Show 027 - R$ 23.010,00
+Evento mais barato: Confraternização 028 - R$ 8.300,00
