@@ -1,8 +1,4 @@
 class Contratante:
-    """
-    Representa a pessoa ou empresa responsável por um evento.
-    """
-
     def __init__(self, nome, tipo_documento, documento, whatsapp):
         self.nome = nome
         self.tipo_documento = tipo_documento

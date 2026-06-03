@@ -1,11 +1,8 @@
-from app.utils.formatadores import formatar_reais
+def formatar_reais(valor):
+    return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 
 class Evento:
-    """
-    Representa um evento e seus itens de custo.
-    """
-
     def __init__(
         self,
         evento_id,
@@ -30,12 +27,12 @@ class Evento:
         self.local = local
         self.quantidade_pessoas = quantidade_pessoas
         self.contratante = contratante
-        self.itens_custo = list(itens_custo) if itens_custo is not None else []
+        self.itens_custo = list(itens_custo) if itens_custo else []
 
     def adicionar_item_custo(self, nome, valor):
         self.itens_custo.append((nome, valor))
 
-    def calcular_custo_total(self):
+    def calcular_total(self):
         return sum(valor for nome, valor in self.itens_custo)
 
     def exibir_dados(self):
@@ -46,16 +43,11 @@ class Evento:
         print("⌚ Horário: {}".format(self.horario))
         print("📍 Local: {}".format(self.local))
         print("👥 Pessoas: {}".format(self.quantidade_pessoas))
-        print("")
-
         self.contratante.exibir_dados()
 
         print("\n💰 Itens de custo:")
-        if not self.itens_custo:
-            print("- Nenhum custo cadastrado.")
-        else:
-            for nome, valor in self.itens_custo:
-                print("- {}: {}".format(nome, formatar_reais(valor)))
+        for nome, valor in self.itens_custo:
+            print("- {}: {}".format(nome, formatar_reais(valor)))
 
-        print("\n💵 Custo total: {}".format(formatar_reais(self.calcular_custo_total())))
+        print("💵 Total: {}".format(formatar_reais(self.calcular_total())))
         print("──────────────────────────────")
