@@ -159,3 +159,11 @@ A nova versão adiciona:
 - relatório TXT completo;
 - validações mais rigorosas;
 - teste automático.
+
+## Integrantes da equipe
+
+* Eduardo Oliveira da Silva
+* Wesley Henrique de Matos Nascimento
+* Alexandre Zampronne Zaccaron Rocha
+* Vinícius Oliveira Prado
+* Matheus Felipe Alves Ferreira
