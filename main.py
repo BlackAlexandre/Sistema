@@ -10,12 +10,12 @@ def menu():
         print("══════════════════════════════════════")
         print("1. Cadastrar evento")
         print("2. Listar eventos")
-        print("3. Consultar evento")
+        print("3. Consultar evento pelo código")
         print("4. Editar evento")
         print("5. Remover evento")
-        print("6. Adicionar custo")
-        print("7. Resumo financeiro")
-        print("8. Relatório mensal")
+        print("6. Gerenciar custos")
+        print("7. Resumo financeiro geral")
+        print("8. Relatório financeiro mensal")
         print("9. Gerar relatório TXT")
         print("0. Sair")
 
@@ -32,7 +32,7 @@ def menu():
         elif opcao == "5":
             agenda.remover_evento()
         elif opcao == "6":
-            agenda.adicionar_custo()
+            agenda.gerenciar_custos()
         elif opcao == "7":
             agenda.resumo_financeiro()
         elif opcao == "8":
