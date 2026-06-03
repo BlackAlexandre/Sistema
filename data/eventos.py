@@ -1,6 +1,3 @@
-# Banco de dados interno em Python.
-# Cada registro principal é uma tupla.
-# Este arquivo é atualizado automaticamente pelo sistema.
 
 EVENTOS_INICIAIS = [(1,
   'Casamento de Mariana e Lucas',
