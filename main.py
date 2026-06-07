@@ -6,7 +6,7 @@ def menu():
 
     while True:
         print("\n══════════════════════════════════════")
-        print("SISTEMA DE GESTÃO DE EVENTOS")
+        print("--------------ZaptEvents--------------")
         print("══════════════════════════════════════")
         print("1. Cadastrar evento")
         print("2. Listar eventos")
