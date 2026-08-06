@@ -12,13 +12,11 @@ O sistema resolve um problema comum de empresas e profissionais que precisam con
 projeto_eventos_final/
 ├── main.py
 ├── agenda.py
-├── testar_sistema.py
 ├── modelos/
 │   ├── contratante.py
 │   └── evento.py
 ├── dados/
 │   └── base_dados.py
-├── relatorios/
 └── README.md
 ```
 
@@ -31,8 +29,6 @@ projeto_eventos_final/
 | `modelos/evento.py` | Representa cada evento e calcula os custos |
 | `modelos/contratante.py` | Representa o responsável pelo evento |
 | `dados/base_dados.py` | Armazena os registros em Python |
-| `relatorios/` | Recebe o relatório em TXT |
-| `testar_sistema.py` | Executa testes automáticos |
 
 ## 4. Estruturas de dados utilizadas
 
@@ -136,13 +132,7 @@ Abra o terminal dentro da pasta do projeto e rode:
 python main.py
 ```
 
-## 11. Como executar os testes
-
-```bash
-python testar_sistema.py
-```
-
-## 12. Evolução em relação ao projeto anterior
+## 11. Evolução em relação ao projeto anterior
 
 A versão inicial possuía cadastro, listagem, edição, remoção e relatório simples.
 
